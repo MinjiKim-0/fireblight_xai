@@ -1,8 +1,7 @@
-## A Study on the Trustworthiness Evaluation of AI Model for Discrimination of Fireblight
+## 📃 A Study on the Trustworthiness Evaluation of AI Model for Discrimination of Fireblight
 ### Min-Ji Kim and DoHoon Lee
 ### Journal of Korea Multimedia Society, vol. 26, no. 2, pp. 420-428, 2023
 
-## 📃 Paper
 My Paper is here: [[Google drive]](https://drive.google.com/file/d/1Mm4GNnjKdwCFHmbhjJu0HaLLic9oJ2A_/view?usp=sharing)
 
 **Abstract:** 
